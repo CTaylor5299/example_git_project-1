@@ -1,5 +1,5 @@
-Git Tutorial
+##Git Tutorial
 
-Basic Commands
+###Basic Commands
 
 ¬ Set-up remote repository
